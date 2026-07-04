@@ -1,0 +1,50 @@
+What is artificial intelligence and how does it work?
+Explain the difference between machine learning and deep learning.
+What are the main applications of natural language processing?
+How does a transformer architecture work in modern AI models?
+What is the difference between supervised and unsupervised learning?
+Explain the concept of overfitting in machine learning models.
+What is gradient descent and why is it important in training neural networks?
+How does backpropagation work in a neural network?
+What is a convolutional neural network and when is it used?
+Explain the attention mechanism in transformer models.
+What is reinforcement learning and give a real-world example?
+How does transfer learning help in building AI applications?
+What is the difference between a large language model and a chatbot?
+Explain what embeddings are in the context of NLP.
+What is tokenization and why does it matter for language models?
+How does sentiment analysis work?
+What is named entity recognition and what are its use cases?
+Explain the concept of fine-tuning a pre-trained model.
+What is zero-shot learning in machine learning?
+How does retrieval-augmented generation (RAG) improve AI responses?
+What are the ethical concerns around using AI in hiring decisions?
+Explain the concept of AI hallucination and how to reduce it.
+What is the difference between precision and recall in classification?
+How does a recommendation system work?
+What is feature engineering and why is it important?
+Explain the curse of dimensionality in machine learning.
+What is a generative adversarial network (GAN)?
+How does image segmentation differ from object detection?
+What is the role of a loss function in training a model?
+Explain bias-variance tradeoff in simple terms.
+What is cross-validation and why is it used?
+How does principal component analysis (PCA) work?
+What is k-means clustering and where is it applied?
+Explain the concept of a confusion matrix.
+What is an autoencoder and what is it used for?
+How does BERT differ from GPT in its architecture?
+What is multimodal AI and give an example?
+Explain the concept of prompt engineering.
+What is chain-of-thought prompting?
+How does temperature affect the output of a language model?
+What is the difference between AI, ML, DL, and generative AI?
+How can AI be used to detect fraudulent transactions?
+What is federated learning and why is it privacy-preserving?
+Explain what a vector database is and how it is used in AI.
+What is semantic search and how does it differ from keyword search?
+How does speech recognition work at a high level?
+What are the limitations of current large language models?
+What is model quantization and why is it useful for deployment?
+How does AI-assisted code generation work?
+What is the future of AI agents and autonomous systems?

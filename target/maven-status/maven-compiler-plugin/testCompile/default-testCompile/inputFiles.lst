@@ -1,0 +1,4 @@
+/workspaces/prompt-processor/src/test/java/com/example/promptprocessor/PromptProcessorApplicationTests.java
+/workspaces/prompt-processor/src/test/java/com/example/promptprocessor/service/JobStoreServiceTest.java
+/workspaces/prompt-processor/src/test/java/com/example/promptprocessor/service/MockInferenceServiceTest.java
+/workspaces/prompt-processor/src/test/java/com/example/promptprocessor/worker/PromptWorkerTest.java
